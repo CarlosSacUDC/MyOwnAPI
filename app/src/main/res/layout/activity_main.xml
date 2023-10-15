@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
         android:text="Publisher"
-        app:layout_constraintTop_toBottomOf="@+id/fullName"
-        tools:layout_editor_absoluteX="176dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fullName" />
 
     <Button
         android:id="@+id/nextButton"
