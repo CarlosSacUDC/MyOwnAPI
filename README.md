@@ -40,7 +40,7 @@ My chosen API for this project is **[SuperHero API](https://www.superheroapi.com
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/gHqFpW1.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
