@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     var heroName = "Hero Name"
     var fullName = "First Apperance"
     var publisher = "Publisher"
-    var tkn = "6033535076749096"
+    var tkn = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
